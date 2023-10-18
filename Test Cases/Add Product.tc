@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>024d182d-3f05-4687-9853-551d06e70cec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ecb7963-d00f-47e4-b031-21e349a13d43</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>141fdada-9401-452e-96d9-bbde26d64be1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5798e2a-2b33-49b3-b973-b5d691d705fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Wiby'</defaultValue>
+      <description></description>
+      <id>2ecb7963-d00f-47e4-b031-21e349a13d43</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Putra'</defaultValue>
+      <description></description>
+      <id>141fdada-9401-452e-96d9-bbde26d64be1</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'40625'</defaultValue>
+      <description></description>
+      <id>a5798e2a-2b33-49b3-b973-b5d691d705fe</id>
+      <masked>false</masked>
+      <name>pos</name>
+   </variable>
+</TestCaseEntity>
